@@ -1,0 +1,1 @@
+int nicePrint(const char* text);
